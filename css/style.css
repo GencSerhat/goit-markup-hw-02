@@ -1,0 +1,19 @@
+body {
+    
+    font-family: "Roboto", sans-serif;
+    color:#2E2F42;
+    font-size: 20px;
+    line-height: 1.4;
+    background-color: #FFFFFF;
+    font-weight: 400;
+
+.button {
+    cursor: pointer;
+}
+
+.main-menu-list a:hover {
+color: red;
+}
+.main-menu-list a:focus {
+    color: red;
+    }
