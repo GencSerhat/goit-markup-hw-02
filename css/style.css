@@ -1,20 +1,52 @@
 body {
-    
-    font-family: "Roboto", sans-serif;
-    color:#2E2F42;
-    font-size: 20px;
-    line-height: 1.4;
-    background-color: #FFFFFF;
-    font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  font-size: 20px;
+  line-height: 1.4;
+  background-color: #ffffff;
+  font-weight: 400;
+}
 
-.button {
-    cursor: pointer;
+.main-menu-list a {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 2%;
 }
 
 .main-menu-list a:hover {
-color: red;
+  color: #404bbf;
 }
 .main-menu-list a:focus {
-    color: red;
-    }
+  color: #4d5ae5;
+}
+
+.adres-list address a {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  font-weight: 400;
+}
+.adres-list address a:hover {
+  color: #404bbf;
+}
+.person-img-team img {
+  width: 240px;
+}
+.our-img-list img {
+  width: "360px";
+}
+
+.button {
+  cursor: pointer;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+  font-weight: 500;
+}
+.button:hover {
+  background-color: #404bbf;
 }
