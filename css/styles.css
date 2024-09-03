@@ -32,6 +32,21 @@ body {
   color: #404bbf;
 }
 
+.efective-head{
+background-color: #2e2f42;
+width: 1440px;
+height: 600px;
+top: 72px;
+}
+.efective-head h1{
+ color: #ffffff;
+ font-weight: 700;
+ font-size: 56px;
+ line-height: 60px;
+ letter-spacing: 2%;
+ text-align: center;
+  }
+
 .first-text h3{
 font-weight: 500;
 font-size: 20px;
@@ -90,4 +105,14 @@ letter-spacing: 2%;
 }
 .button:hover {
   background-color: #404bbf;
+}
+
+.our-team{
+  background-color: #F4F4FD;
+}
+.footer-menu{
+  background-color: #2E2F42;
+}
+.footer-menu p{
+ color: #F4F4FD;
 }
