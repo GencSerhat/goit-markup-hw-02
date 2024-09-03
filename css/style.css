@@ -26,11 +26,25 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  font-weight: 400;
+
 }
 .adres-list address a:hover {
   color: #404bbf;
 }
+
+.first-text h3{
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 2%;
+}
+.first-text p{
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
+ color: #434455;
+    }
+
 .person-img-team img {
   width: 240px;
 }
