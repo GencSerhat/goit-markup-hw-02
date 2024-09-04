@@ -25,6 +25,16 @@ body {
 
 
 }
+.span-href-footer{
+  color:#ffffff;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+
+
+}
 .main-menu-list a {
   text-decoration: none;
   font-size: 16px;
