@@ -6,6 +6,10 @@ body {
   background-color: #ffffff;
   font-weight: 400;
 }
+.header-nav{
+  color: #E7E9FC;
+  
+}
 .head-href{
   color: #4D5AE5;
   font-family: "Raleway", sans-serif;
@@ -41,8 +45,11 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 2%;
+  
 }
-
+.main-menu-list li {
+  list-style-type: none;
+}
 .main-menu-list a:hover {
   color: #404bbf;
 }
@@ -57,6 +64,14 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
+
+}
+.adres-list a {
+  text-decoration: none;
+
+}
+.adres-list li {
+  list-style-type: none;
 
 }
 .adres-list address a:hover {
@@ -146,4 +161,8 @@ letter-spacing: 2%;
 }
 .footer-menu p{
  color: #F4F4FD;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
 }
